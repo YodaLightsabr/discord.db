@@ -1,4 +1,4 @@
-# Discord.db
+# Discordjs-db
 An innovative way to store Discord userdata
 
 ## How it works
@@ -14,7 +14,7 @@ This database is completely free to use, but there are some drawbacks:
 
 ## Demo
 ```js
-const Datastore = require('./db.js');
+const Datastore = require('discordjs-db');
 const Discord = require('discord.js');
 const express = require('express');
 
