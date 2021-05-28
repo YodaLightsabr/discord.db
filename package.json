@@ -1,0 +1,30 @@
+{
+  "name": "discordjs-db",
+  "version": "1.0.0",
+  "description": "An innovative way to store Discord userdata",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YodaLightsabr/discord.db.git"
+  },
+  "keywords": [
+    "db",
+    "database",
+    "document-based",
+    "discord",
+    "replit"
+  ],
+  "author": "YodaLightsabr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YodaLightsabr/discord.db/issues"
+  },
+  "homepage": "https://github.com/YodaLightsabr/discord.db#readme",
+  "dependencies": {
+    "discord-fetch-all": "^3.0.2",
+    "discord.js": "^12.5.3"
+  }
+}
